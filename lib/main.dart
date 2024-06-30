@@ -43,7 +43,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('One Page App'),
+        title: Text('Hubtel's App'),
       ),
       body: _isLoading
           ? Center(
