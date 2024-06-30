@@ -1,17 +1,6 @@
 # Hubtel's App Interface
 
-This is a Flutter application that demonstrates a one-page hubtel design with an initial loading screen. The app simulates a transaction history page with a progress indicator to show an initial page load before the data is rendered.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
+This is a Flutter application that demonstrates a one-page hubtel design.
 ## Introduction
 
 The One Page App is built using Flutter and showcases a clean and modern UI for displaying transaction history. The app includes a loading indicator during data fetch and presents the data in a well-structured format.
